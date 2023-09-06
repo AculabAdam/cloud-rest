@@ -6,7 +6,7 @@
       }
     },
     {
-      "answer": {},
+      "answer": {}
     },
     {
       "play": {
@@ -16,12 +16,12 @@
           }
         ]
       }
-    }
+    },
     {
       "sleep": {
         "seconds": 1
       }
-    }
+    },
     {
       "play": {
         "play_list": [
