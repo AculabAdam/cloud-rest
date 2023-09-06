@@ -34,7 +34,7 @@
     {
       "record": {
         "next_page": "https://github.com/AculabAdam/cloud-rest/blob/master/first.json",
-        "beep_on_start": true,
+        "beep_on_start": true
       }
     }
   ],
