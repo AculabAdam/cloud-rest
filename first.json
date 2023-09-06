@@ -1,13 +1,27 @@
 {
   "actions": [
     {
+      "sleep": {
+        "seconds": 3
+      },
+      "answer": {},
       "play": {
         "play_list": [
           {
             "text_to_say": "Hello?"
           }
         ]
-      }
+      },
+      "sleep": {
+        "seconds": 1
+      },
+      "play": {
+        "play_list": [
+          {
+            "text_to_say": "Hello!?"
+          }
+        ]
+      },
     }
   ],
   "token": null,
