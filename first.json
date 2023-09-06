@@ -30,6 +30,11 @@
           }
         ]
       }
+    },
+    {
+      "sleep": {
+        "seconds": 45
+      }
     }
   ],
   "token": null,
